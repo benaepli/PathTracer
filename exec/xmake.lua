@@ -1,0 +1,5 @@
+target("PTH_exec")
+    set_kind("binary")
+    add_deps("PTH")
+    add_files("src/**.cpp")
+    set_policy("build.optimization.lto", true)

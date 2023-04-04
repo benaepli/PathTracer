@@ -1,0 +1,23 @@
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Visual Studio
+.vs/
+vsxmake*/
+
+# CMake
+CMakeLists.txt
+cmake-build-debug/
+cmake-build-release/
+
+compile_commands.json
+
+.cache
+.idea
