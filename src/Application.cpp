@@ -232,7 +232,7 @@ namespace pth
             .color = {0.8, 0.8, 0.8},
             .metallic = 0.3F,
             .roughness = 0.F,
-            .ior = 1.5F,
+            .ior = 3.F,
             .emissive = {0.0, 0.0, 0.0},
         };
 
